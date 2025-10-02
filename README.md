@@ -49,3 +49,5 @@ The notebook uses a simple dataset of 5 restaurant tables with actual vs predict
 | MAPE | Business communication, scale-independent | Percentage-based results |
 
 
+## Contributing
+Suggestions and improvements are welcome! Feel free to open an issue or submit a pull request.
